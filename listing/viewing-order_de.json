@@ -1,0 +1,2619 @@
+  
+  [
+    {
+      "id": "1",
+      "title": "Captain America: The First Avenger",
+      "release_date": "27.07.2011",
+      "duration": 124,
+      "overview": "Marvels 'Captain America: The First Avenger' konzentriert sich auf die frühen Tage des Marvel-Universums, als Steve Rogers sich freiwillig zur Teilnahme an einem experimentellen Programm meldet, das ihn in den als Captain America bekannten Supersoldaten verwandelt.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/captain-america-the-first-avenger.jpg",
+      "trailer_url": "https://www.youtube.com/embed/JerVrbLldXw",
+      "directed_by": "Joe Johnston",
+      "phase": 1,
+      "chronology": 1,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "1943-1945"
+    },
+    {
+      "id": "2000",
+      "title": "One Shot: Marvel's Agent Carter",
+      "release_date": "24.09.2013",
+      "duration": 15,
+      "overview": "Jetzt ansehen!",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/oneshot_carter.jpg",
+      "trailer_url": "https://www.dailymotion.com/embed/video/x27z5eg?autoplay=1",
+      "directed_by": "James Chory, Lawrence Trilling, Peter Leto, Scott Winant, Vincent Misiano, Chris Peppe, Ken Marino",
+      "phase": 2,
+      "chronology": 2,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "1945"
+    },
+    {
+      "id": "1000",
+      "title": "Marvel's Agent Carter",
+      "release_date": "06.01.2015",
+      "duration": null,
+      "overview": "Agentin Peggy Carter hat die Liebe ihres Lebens verloren. Als zu allem Überfluss auch noch der Milliardär Howard Stark des Verrats beschuldigt wird, heuert er sie heimlich an, um seinen Namen reinzuwaschen. Mit der Hilfe von Starks Butler begibt sie sich auf eine bizarre Reise voller Betrug, Mord und Auseinandersetzungen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Agent_Carter_S2.webp",
+      "trailer_url": "https://www.youtube.com/embed/qPiMNPlbijw",
+      "directed_by": "James Chory, Lawrence Trilling, Peter Leto, Scott Winant, Vincent Misiano, Chris Peppe, Ken Marino",
+      "phase": 2,
+      "chronology": 3,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E08",
+      "episodes": 
+      [
+        {
+         "id": "1000_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1000_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1000_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1000_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1000_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1000_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1000_07",
+          "title": "S01E07"
+         },
+         {
+          "id": "1000_08",
+          "title": "S01E08"
+         }
+      ],
+      "year_it_played": "1946"
+    },
+    {
+      "id": "1001",
+      "title": "Marvel's Agent Carter",
+      "release_date": "19.01.2016",
+      "duration": null,
+      "overview": "In der zweiten Staffel von Agent Carter zieht Peggy nach dem 2. Weltkrieg nach LA, was ihr ein anderes Territorium und eine andere Art von Verbrechen beschert, mit denen sie sich auseinandersetzen muss.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Carter.png",
+      "trailer_url": "https://www.youtube.com/embed/4TPGpoNGHPU",
+      "directed_by": "James Chory, Lawrence Trilling, Peter Leto, Scott Winant, Vincent Misiano, Chris Peppe, Ken Marino",
+      "phase": 2,
+      "chronology": 4,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E10",
+      "episodes": 
+      [
+        {
+         "id": "1001_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1001_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1001_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1001_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1001_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1001_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1001_07",
+          "title": "S02E07"
+         },
+         {
+          "id": "1001_08",
+          "title": "S02E08"
+         },
+         {
+          "id": "1001_09",
+          "title": "S02E09"
+         },
+         {
+          "id": "1001_10",
+          "title": "S02E10"
+         }
+      ],
+      "year_it_played": "1947"
+    },
+    {
+      "id": "2",
+      "title": "Captain Marvel",
+      "release_date": "27.02.2019",
+      "duration": 125,
+      "overview": "'Captain Marvel' von Marvel Studios spielt in den 1990er Jahren und ist ein brandneues Abenteuer aus einer bisher unbekannten Zeit in der Geschichte des Marvel Cinematic Universe, das die Reise von Carol Danvers verfolgt, die zu einer der mächtigsten Heldinnen des Universums wird. Während ein galaktischer Krieg zwischen zwei außerirdischen Rassen die Erde erreicht, findet Danvers sich und einen kleinen Kader von Verbündeten im Zentrum des Mahlstroms wieder.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/captain-marvel.jpg",
+      "trailer_url": "https://www.youtube.com/embed/Z1BCujX3pw8",
+      "directed_by": "Anna Boden, Ryan Fleck",
+      "phase": 3,
+      "chronology": 5,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "1995"
+    },
+    {
+      "id": "3",
+      "title": "Iron Man",
+      "release_date": "30.04.2008",
+      "duration": 126,
+      "overview": "Iron Man erzählt die Geschichte von Tony Stark, einem milliardenschweren Industriellen und genialen Erfinder, der entführt und gezwungen wird, eine verheerende Waffe zu bauen. Stattdessen baut Tony mit Hilfe seiner Intelligenz und seines Einfallsreichtums eine Hightech-Rüstung und entkommt aus der Gefangenschaft. Als er eine ruchlose Verschwörung mit globalen Auswirkungen aufdeckt, zieht er seine mächtige Rüstung an und schwört, die Welt als Iron Man zu schützen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/iron-man.jpg",
+      "trailer_url": "https://www.youtube.com/embed/8ugaeA-nMTc",
+      "directed_by": "Jon Favreau",
+      "phase": 1,
+      "chronology": 6,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2010"
+    },
+    {
+      "id": "4",
+      "title": "Iron Man 2",
+      "release_date": "28.04.2010",
+      "duration": 124,
+      "overview": "Da die Welt nun weiß, dass er Iron Man ist, wird der Milliardär und Erfinder Tony Stark von allen Seiten unter Druck gesetzt, seine Technologie mit dem Militär zu teilen. Er zögert, die Geheimnisse seines gepanzerten Anzugs preiszugeben, da er befürchtet, dass die Informationen in die falschen Hände geraten könnten. Mit Pepper Potts und \"Rhodey\" Rhodes an seiner Seite muss Tony neue Allianzen schmieden und sich einem mächtigen neuen Feind stellen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/iron-man-2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/BoohRoVA9WQ",
+      "directed_by": "Jon Favreau",
+      "phase": 1,
+      "chronology": 7,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2011"
+    },
+    {
+      "id": "5",
+      "title": "The Incredible Hulk",
+      "release_date": "13.06.2008",
+      "duration": 112,
+      "overview": "Wissenschaftler Bruce Banner sucht verzweifelt nach einem Heilmittel gegen die Gammastrahlung, die seine Zellen vergiftet hat und die ungezügelte Kraft der Wut in ihm entfesselt: The Hulk. Er lebt im Schatten - abgeschnitten vom Leben, das er kannte, und der Frau, die er liebt und kämpft darum, der zwanghaften Verfolgung seiner Erzfeinde zu entgehen. Er muss eine quälende letzte Entscheidung treffen: ein friedliches Leben als Bruce Banner akzeptieren oder das Heldentum in der Kreatur finden, die er in sich trägt.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/hulk.jpg",
+      "trailer_url": "https://www.youtube.com/embed/xbqNb2PFKKA",
+      "directed_by": "Louis Leterrier",
+      "phase": 1,
+      "chronology": 8,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2011"
+    },
+    {
+      "id": "2001",
+      "title": "One Shot: The consultant",
+      "release_date": "13.09.2011",
+      "duration": 4,
+      "overview": "Jetzt ansehen!",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Marvel_One-Shot_The_Consultant.webp",
+      "trailer_url": "https://www.dailymotion.com/embed/video/xkt77j?autoplay=1",
+      "directed_by": "Leythum, Clark Gregg, Eric Pearson, Maximiliano Hernández, Kevin Feige, Tim Roth, Mick Ebeling, Jeff Prewett",
+      "phase": 1,
+      "chronology": 9,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "2011"
+    },
+    {
+      "id": "2002",
+      "title": "One Shot: A Funny Thing Happened On The Way To Thor's Hammer",
+      "release_date": "25.10.2011",
+      "duration": 4,
+      "overview": "Jetzt ansehen!", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Thors hammer.jpg",
+      "trailer_url": "https://www.dailymotion.com/embed/video/x2p9rf3?autoplay=1",
+      "directed_by": "Leythum",
+      "phase": 1,
+      "chronology": 10,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "2011"
+    },
+    {
+      "id": "6",
+      "title": "Thor",
+      "release_date": "27.04.2011",
+      "duration": 115,
+      "overview": "Als Sohn von Odin, dem König der nordischen Götter, wird Thor bald den Thron von Asgard von seinem alternden Vater erben. Doch an dem Tag, an dem er gekrönt werden soll, reagiert Thor mit Brutalität, als die Feinde der Götter, die Frostriesen, den Palast unter Verletzung ihres Vertrages betreten. Zur Strafe verbannt Odin Thor auf die Erde. Während Loki, Thors Bruder, in Asgard Unheil stiftet, steht Thor, nun seiner Kräfte beraubt, seiner größten Bedrohung gegenüber.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/thor.jpg",
+      "trailer_url": "https://www.youtube.com/embed/JOddp-nlNvQ",
+      "directed_by": "Kenneth Branagh",
+      "phase": 1,
+      "chronology": 11,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2011"
+    },
+    {
+      "id": "7",
+      "title": "The Avengers",
+      "release_date": "11.04.2012",
+      "duration": 144,
+      "overview": "Als ein unerwarteter Feind auftaucht, der die globale Sicherheit bedroht, braucht Nick Fury, Direktor der internationalen Friedensbehörde S.H.I.E.L.D., ein Team, das die Welt vor dem Abgrund rettet. Rund um den Globus beginnt eine gewagte Rekrutierungsaktion",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/avengers.jpg",
+      "trailer_url": "https://www.youtube.com/embed/eOrNdBpGMv8",
+      "directed_by": "Joss Whedon",
+      "phase": 1,
+      "chronology": 12,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2012"
+    },
+    {
+      "id": "8",
+      "title": "Iron Man 3",
+      "release_date": "14.04.2013",
+      "duration": 131,
+      "overview": "Stark muss gegen einen Feind kämpfen, dessen Reichweite keine Grenzen kennt. Als er feststellt, dass seine persönliche Welt durch die Hand seines Feindes zerstört wurde, begibt er sich auf eine erschütternde Suche nach den Verantwortlichen. Mit dem Rücken zur Wand ist Stark auf sich allein gestellt und muss sich auf seinen Einfallsreichtum und seine Instinkte verlassen, um die zu schützen, die ihm am nächsten stehen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/iron-man-3.jpg",
+      "trailer_url": "https://www.youtube.com/embed/ei7BCSmJ8g0",
+      "directed_by": "Shane Black",
+      "phase": 2,
+      "chronology": 13,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2012"
+    },
+    {
+      "id": "2003",
+      "title": "One Shot: Item 47",
+      "release_date": "07.2012",
+      "duration": 11,
+      "overview": "Jetzt ansehen!",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/item47.jpg ",
+      "trailer_url": "https://ok.ru/videoembed/88002071227",
+      "directed_by": "Louis D'Esposito",
+      "phase": 2,
+      "chronology": 14,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "2012"
+    },
+    {
+      "id": "2004",
+      "title": "One Shot: All Hail the King",
+      "release_date": "04.02.2014",
+      "duration": 14,
+      "overview": "Jetzt ansehen!",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/all hail the king.jpg",
+      "trailer_url": "https://player.vimeo.com/video/457682383?",
+      "directed_by": "Drew Pearce",
+      "phase": 2,
+      "chronology": 15,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "2013"
+    },
+    {
+      "id": "1003",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "24.09.2013",
+      "duration": null,
+      "overview": "Agent Phil Coulson kehrt nach den Vorfällen in NewYork zur weltweiten Strafverfolgungsorganisation S.H.I.E.L.D. zurück. Er stellt ein kleines, hochqualifiziertes Team von Agenten zusammen, um die Fälle anzugehen, die noch nicht klassifiziert wurden: das Neue, das Seltsame und das Unbekannte.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/S.H.I.E.L.D E01.webp",
+      "trailer_url": "https://www.youtube.com/embed/T3T-evQZiQo" ,
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 2,
+      "chronology": 16,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E07",
+      "episodes": 
+      [
+        {
+         "id": "1003_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1003_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1003_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1003_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1003_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1003_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1003_07",
+          "title": "S01E07"
+         }
+      ],
+      "year_it_played": "2013"
+    },
+    {
+      "id": "9",
+      "title": "Thor: The Dark World",
+      "release_date": "22.10.2013",
+      "duration": 112,
+      "overview": "Nach 'Thor' und 'Marvel's The Avengers' kämpft Thor darum, die Ordnung im Kosmos wiederherzustellen ... doch eine uralte Rasse unter der Führung des rachsüchtigen Malekith kehrt zurück, um das Universum wieder in die Dunkelheit zu stürzen. Konfrontiert mit einem Feind, dem selbst Odin und Asgard nicht widerstehen können, muss sich Thor auf seine bisher gefährlichste und persönlichste Reise begeben, eine, die ihn mit Jane Foster wiedervereinen und ihn dazu zwingen wird, alles zu opfern, um alle zu retten.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/thor-dark-world.jpg",
+      "trailer_url": "https://www.youtube.com/embed/cltIcTPrHQk",
+      "directed_by": "Alan Taylor",
+      "phase": 2,
+      "chronology": 17,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2013"
+    },
+    {
+      "id": "1004",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "24.09.2013",
+      "duration": null,
+      "overview": "Agent Phil Coulson kehrt nach den Vorfällen in NewYork zur weltweiten Strafverfolgungsorganisation S.H.I.E.L.D. zurück. Er stellt ein kleines, hochqualifiziertes Team von Agenten zusammen, um die Fälle anzugehen, die noch nicht klassifiziert wurden: das Neue, das Seltsame und das Unbekannte.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/S.H.I.E.L.D E01.webp",
+      "trailer_url": "https://www.youtube.com/embed/T3T-evQZiQo",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 2,
+      "chronology": 18,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E08 - S01E16",
+      "episodes": 
+      [
+        {
+         "id": "1004_01",
+         "title": "S01E08"
+        },
+        {
+          "id": "1004_02",
+          "title": "S01E09"
+         },
+         {
+          "id": "1004_03",
+          "title": "S01E10"
+         },
+         {
+          "id": "1004_04",
+          "title": "S01E11"
+         },
+         {
+          "id": "1004_05",
+          "title": "S01E12"
+         },
+         {
+          "id": "1004_06",
+          "title": "S01E13"
+         },
+         {
+          "id": "1004_07",
+          "title": "S01E14"
+         },
+         {
+          "id": "1004_08",
+          "title": "S01E15"
+         },
+         {
+          "id": "1004_09",
+          "title": "S01E16"
+         }
+      ],
+      "year_it_played": "2014"
+    },
+    {
+      "id": "10",
+      "title": "Captain America: The Winter Soldier",
+      "release_date": "13.03.2014",
+      "duration": 136,
+      "overview": "Zwei Jahre nach den katastrophalen Ereignissen in New York findet Steve Rogers ein ruhiges Leben in Washington, D.C. und versucht, sich an die moderne Welt anzupassen. Doch als ein Verbündeter angegriffen wird, wird Steve in ein Netz von Intrigen verwickelt, das die Welt zu gefährden droht. Gemeinsam mit  Romanoff kämpft Captain America darum, die sich immer weiter ausbreitende Verschwörung aufzudecken, während er sich auf Schritt und Tritt gegen professionelle Attentäter wehrt, die ihn zum Schweigen bringen sollten.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/captain-america-the-winter-soldier.jpg",
+      "trailer_url": "https://www.youtube.com/embed/tbayiPxkUMM",
+      "directed_by": "Anthony Russo, Joe Russo",
+      "phase": 2,
+      "chronology": 19,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2014"
+    },
+    {
+      "id": "1005",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "24.09.2013",
+      "duration": null,
+      "overview": "Agent Phil Coulson kehrt nach den Vorfällen in NewYork zur weltweiten Strafverfolgungsorganisation S.H.I.E.L.D. zurück. Er stellt ein kleines, hochqualifiziertes Team von Agenten zusammen, um die Fälle anzugehen, die noch nicht klassifiziert wurden: das Neue, das Seltsame und das Unbekannte.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/S.H.I.E.L.D E01.webp",
+      "trailer_url": "https://www.youtube.com/embed/T3T-evQZiQo" ,
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 2,
+      "chronology": 20,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E17 - S01E022",
+      "episodes": 
+      [
+        {
+         "id": "1005_01",
+         "title": "S01E17"
+        },
+        {
+          "id": "1005_02",
+          "title": "S01E18"
+         },
+         {
+          "id": "1005_03",
+          "title": "S01E19"
+         },
+         {
+          "id": "1005_04",
+          "title": "S01E20"
+         },
+         {
+          "id": "1005_05",
+          "title": "S01E21"
+         },
+         {
+          "id": "1005_06",
+          "title": "S01E22"
+         }
+      ],
+      "year_it_played": "2014"
+    },
+    {
+      "id": "1006",
+      "title": "Marvel's Daredevil",
+      "release_date": "10.04.2015",
+      "duration": 0,
+      "overview": "Marvel's Daredevil verfolgt die Reise des Anwalts Matt Murdock, der bei einem tragischen Unfall als Junge erblindet ist, aber mit außergewöhnlichen Sinnen ausgestattet wurde. Murdock lässt sich in seinem alten Viertel 'Hell's Kitchen' in New York nieder, wo er nun als angesehener Anwalt am Tag und maskierter Ordnungshüter in der Nacht gegen Ungerechtigkeit kämpft.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Daredevil 1.jpeg",
+      "trailer_url": "https://www.youtube.com/embed/jAy6NJ_D5vU",
+      "directed_by": "Steven S. DeKnight",
+      "phase": 2,
+      "chronology": 21,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E13",
+      "episodes": 
+      [
+        {
+         "id": "1006_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1006_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1006_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1006_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1006_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1006_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1006_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1006_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1006_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1006_10",
+           "title": "S01E10"
+          },
+          {
+           "id": "1006_11",
+           "title": "S01E11"
+          },
+          {
+            "id": "1006_12",
+            "title": "S01E12"
+           },
+           {
+            "id": "1006_13",
+            "title": "S01E13"
+           }
+      ],
+      "year_it_played": "2014"
+    },
+    {
+      "id": "11",
+      "title": "Guardians of the Galaxy",
+      "release_date": "31.07.2014",
+      "duration": 125,
+      "overview": "Ein episches Weltraumabenteuer, das das Marvel Cinematic Universe in den Kosmos erweitert, wo der mutige Abenteurer Peter Quill sich als Ziel einer unerbittlichen Kopfgeldjagd wiederfindet, nachdem er eine mysteriöse Kugel gestohlen hat, die von einem mächtigen Schurken begehrt wird. Um dem immerwährenden Ronan zu entkommen, ist Quill gezwungen, einen unbehaglichen Waffenstillstand mit einem Quartett ungleicher Außenseiter einzugehen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/guardians-of-the-galaxy-vol-1.jpg",
+      "trailer_url": "https://www.youtube.com/embed/d96cjJhvlMA",
+      "directed_by": "James Gunn",
+      "phase": 2,
+      "chronology": 22,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2014"
+    },
+    {
+      "id": "12",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "release_date": "10.04.2017",
+      "duration": 138,
+      "overview": "Die Guardians müssen kämpfen, um ihre neu gegründete Familie zusammenzuhalten, während sie die Geheimnisse von Peter Quills wahrer Abstammung lüften.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/guardians-of-the-galaxy-vol-2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/sMTntxvok1M",
+      "directed_by": "James Gunn",
+      "phase": 3,
+      "chronology": 23,
+      "post_credit_scenes": 5,
+      "episodes_to_watch": "0",
+      "year_it_played": "2014"
+    },
+    {
+      "id": "1007",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "23.09.2014",
+      "duration": null,
+      "overview": "Nachdem er geholfen hat HYDRA zu stürzen, wurde Coulson zum Direktor ernannt und mit dem Wiederaufbau der Agentur beauftragen. Dies war keine leichte Aufgabe, da die meisten S.H.I.E.L.D.-Agenten entweder getötet wurden, heimlich für HYDRA arbeiteten oder nun freie Agenten waren.  May muss sich währenddessen um Coulson kümmern, da dieser mysteriöse Zeichen in Wände ritzte. Was bedeuteten diese Schnitzereien und konnte man Coulson noch trauen?", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/S.H.I.E.L.D 2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/t6Nhd0r2s08", 
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 2,
+      "chronology": 24,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E19",
+      "episodes": 
+      [
+        {
+         "id": "1007_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1007_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1007_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1007_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1007_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1007_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1007_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1007_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1007_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1007_10",
+           "title": "S02E10"
+          },
+          {
+           "id": "1007_11",
+           "title": "S02E11"
+          },
+          {
+            "id": "1007_12",
+            "title": "S02E12"
+           },
+           {
+            "id": "1007_13",
+            "title": "S02E13"
+           },
+           {
+            "id": "1007_14",
+            "title": "S02E14"
+           },
+           {
+            "id": "1007_15",
+            "title": "S02E15"
+           },
+           {
+             "id": "1007_16",
+             "title": "S02E16"
+            },
+            {
+             "id": "1007_17",
+             "title": "S02E17"
+            },
+            {
+             "id": "1007_18",
+             "title": "S02E18"
+            },
+            {
+             "id": "1007_19",
+             "title": "S02E19"
+            }
+      ],
+      "year_it_played": "2015"
+    },
+    {
+      "id": "13",
+      "title": "Avengers: Age of Ultron",
+      "release_date": "22.04.2015",
+      "duration": 141,
+      "overview": "Als Tony Stark versucht, ein ruhendes Friedensprogramm in Gang zu setzen, geht alles schief und die mächtigsten Helden der Erde, darunter Captain America, Thor, the incredible Hulk, Black Widow und Hawkeye, werden auf die ultimative Probe gestellt, während das Schicksal des Planeten auf dem Spiel steht. Als der Bösewicht Ultron auftaucht, liegt es an den Avengers, ihn daran zu hindern, seine schrecklichen Pläne zu verwirklichen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/avengers-age-of-ultron.jpg",
+      "trailer_url": "https://www.youtube.com/embed/tmeOjFno6Do",
+      "directed_by": "Joss Whedon",
+      "phase": 2,
+      "chronology": 25,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2015"
+    },
+    {
+      "id": "1008",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "23.09.2014",
+      "duration": null,
+      "overview": "Nachdem er geholfen hat HYDRA zu stürzen, wurde Coulson zum Direktor ernannt und mit dem Wiederaufbau der Agentur beauftragen. Dies war keine leichte Aufgabe, da die meisten S.H.I.E.L.D.-Agenten entweder getötet wurden, heimlich für HYDRA arbeiteten oder nun freie Agenten waren.  May muss sich währenddessen um Coulson kümmern, da dieser mysteriöse Zeichen in Wände ritzte. Was bedeuteten diese Schnitzereien und konnte man Coulson noch trauen?", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/S.H.I.E.L.D 2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/t6Nhd0r2s08", 
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 2,
+      "chronology": 26,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E20 - S02E22",
+      "episodes": 
+      [
+        {
+         "id": "1008_01",
+         "title": "S02E20"
+        },
+        {
+          "id": "1008_02",
+          "title": "S02E21"
+         },
+         {
+          "id": "1008_03",
+          "title": "S02E22"
+         }
+      ],
+      "year_it_played": "2015"
+    },
+    {
+      "id": "14",
+      "title": "Ant-Man",
+      "release_date": "14.07.2015",
+      "duration": 117,
+      "overview": "Bewaffnet mit der erstaunlichen Fähigkeit, zu schrumpfen und gleichzeitig stärker zu werden, muss der Meisterdieb Scott Lang seinen inneren Helden finden und seinem Mentor, Doktor Hank Pym, helfen, das Geheimnis hinter dem spektakulären Ant-Man-Anzug vor einer neuen Generation von gewaltigen Bedrohungen zu schützen. Gegen scheinbar unüberwindbare Hindernisse müssen Pym und Lang einen Raub planen und durchziehen, der die Welt retten wird.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/ant-man.jpg",
+      "trailer_url": "https://www.youtube.com/embed/pWdKf3MneyI",
+      "directed_by": "Peyton Reed",
+      "phase": 2,
+      "chronology": 27,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2015"
+    },
+    {
+      "id": "1009",
+      "title": "Marvel's Jessica Jones",
+      "release_date": "20.11.2015",
+      "duration": 0,
+      "overview": "Seitdem ihr kurzlebiger Einsatz als Superheldin in einer Tragödie endete, hat Jessica Jones ihr Privatleben und ihre Karriere als temperamentvolle, und knallharte Privatdetektivin in 'Hell's Kitchen', New York City, neu aufgebaut. Geplagt von Selbsthass und einem schlimmen Fall von PTSD, kämpft Jessica gegen Dämonen und nutzt ihre außergewöhnlichen Fähigkeiten, um denjenigen zu helfen, die in Not sind... besonders wenn sie bereit sind, ihr einen Scheck auszustellen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Jessica_Jones1.jpg",
+      "trailer_url": "https://www.youtube.com/embed/nWHUjuJ8zxE",
+      "directed_by": "Melissa Rosenberg",
+      "phase": 2,
+      "chronology": 28,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E13",
+      "episodes": 
+      [
+        {
+         "id": "1009_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1009_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1009_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1009_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1009_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1009_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1009_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1009_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1009_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1009_10",
+           "title": "S01E10"
+          },
+          {
+           "id": "1009_11",
+           "title": "S01E11"
+          },
+          {
+            "id": "1009_12",
+            "title": "S01E12"
+           },
+           {
+            "id": "1009_13",
+            "title": "S01E13"
+          }
+      ],
+      "year_it_played": "2015"
+    },
+    {
+      "id": "1010",
+      "title": "Marvel's Daredevil",
+      "release_date": "18.03.2016",
+      "duration": 0,
+      "overview": "Gerade als Matt denkt, er bringt wieder Ordnung in die Stadt, erheben sich neue Kräfte in 'Hell's Kitchen'. Jetzt muss er sich einer alten Flamme stellen - Elektra Natchios. Größere Probleme tauchen auf, als Frank Castle, ein Mann auf der Suche nach Rache, als der Punisher wiedergeboren wird. In der Zwischenzeit muss Matt zwischen seiner Pflicht als Anwalt und seinem gefährlichen Leben als Teufel von 'Hell's Kitchen' abwägen und steht vor einer lebensverändernden Entscheidung, die ihn zwingt, wirklich zu verstehen, was es bedeutet, ein Held zu sein.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Daredevil_Season_2.webp",
+      "trailer_url": "https://www.youtube.com/embed/2Cn3DVV0LHY",
+      "directed_by": "Douglas Petrie, Marco Ramirez",
+      "phase": 3,
+      "chronology": 29,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E13",
+      "episodes": 
+      [
+        {
+         "id": "1010_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1010_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1010_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1010_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1010_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1010_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1010_07",
+          "title": "S02E07"
+         },
+         {
+          "id": "1010_08",
+          "title": "S02E08"
+         },
+         {
+          "id": "1010_09",
+          "title": "S02E09"
+         },
+         {
+          "id": "1010_10",
+          "title": "S02E10"
+         },
+         {
+          "id": "1010_11",
+          "title": "S02E11"
+         },
+         {
+          "id": "1010_12",
+          "title": "S02E12"
+         },
+         {
+          "id": "1010_13",
+          "title": "S02E13"
+         }
+      ],
+      "year_it_played": "2015"
+    },
+    {
+      "id": "1011",
+      "title": "Marvel's Luke Cage",
+      "release_date": "30.09.2016",
+      "duration": 0  ,
+      "overview": "Nachdem ein sabotiertes Experiment ihn mit Superkräften und unzerstörbarer Haut ausstattet, wird Luke Cage zu einem Flüchtling, der versucht, sein Leben im modernen Harlem, New York City, neu zu gestalten. Doch schon bald wird er aus dem Schatten herausgeholt und muss einen Kampf um das Herz seiner Stadt führen, was ihn dazu zwingt, sich einer Vergangenheit zu stellen, die er zu begraben versucht hatte.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Luke Cage 1.jpg",
+      "trailer_url": "https://www.youtube.com/embed/ORa4hPhGrpo",
+      "directed_by": "Cheo Hodari Coker",
+      "phase": 3,
+      "chronology": 30,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E13",
+      "episodes": 
+      [
+        {
+         "id": "1011_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1011_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1011_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1011_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1011_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1011_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1011_07",
+          "title": "S01E07"
+         },
+         {
+          "id": "1011_08",
+          "title": "S01E08"
+         },
+         {
+          "id": "1011_09",
+          "title": "S01E09"
+         },
+         {
+          "id": "1011_10",
+          "title": "S01E10"
+         },
+         {
+          "id": "1011_11",
+          "title": "S01E11"
+         },
+         {
+          "id": "1011_12",
+          "title": "S01E12"
+         },
+         {
+          "id": "1011_13",
+          "title": "S01E13"
+         }
+      ],
+      "year_it_played": "2015"
+    },
+    {
+      "id": "1012",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "29.09.2015",
+      "duration": null,
+      "overview": "Marvel's Agents of S.H.I.E.L.D. kehrt für eine spannende dritte Staffel zurück, mit Direktor Phil Coulson und Agentin Daisy Johnson an der Spitze, während S.H.I.E.L.D. nach ihrem epischen Kampf mit Jiaying und ihrer Armee von Inhumans die Welt nach weiteren Menschen mit Kräften absucht. Allerdings finden Coulson und sein Team bald heraus, dass sie nicht die einzigen sind, die nach diesen suchen.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 3.jpg",
+      "trailer_url": "https://www.youtube.com/embed/N4VoMgVN1O4",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 31,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S03E01 - S03E19",
+      "episodes": 
+      [
+        {
+         "id": "1012_01",
+         "title": "S03E01"
+        },
+        {
+          "id": "1012_02",
+          "title": "S03E02"
+         },
+         {
+          "id": "1012_03",
+          "title": "S03E03"
+         },
+         {
+          "id": "1012_04",
+          "title": "S03E04"
+         },
+         {
+          "id": "1012_05",
+          "title": "S03E05"
+         },
+         {
+          "id": "1012_06",
+          "title": "S03E06"
+         },
+         {
+          "id": "1012_07",
+          "title": "S03E07"
+         },
+         {
+          "id": "1012_08",
+          "title": "S03E08"
+         },
+         {
+          "id": "1012_09",
+          "title": "S03E09"
+         },
+         {
+          "id": "1012_10",
+          "title": "S03E10"
+         },
+         {
+          "id": "1012_11",
+          "title": "S03E11"
+         },
+         {
+          "id": "1012_12",
+          "title": "S03E12"
+         },
+         {
+          "id": "1012_13",
+          "title": "S03E13"
+         },
+         {
+          "id": "1012_14",
+          "title": "S03E14"
+         },
+         {
+          "id": "1012_15",
+          "title": "S03E15"
+         },
+         {
+          "id": "1012_16",
+          "title": "S03E16"
+         },
+         {
+          "id": "1012_17",
+          "title": "S03E17"
+         },
+         {
+          "id": "1012_18",
+          "title": "S03E18"
+         },
+         {
+          "id": "1012_19",
+          "title": "S03E19"
+         }
+      ],
+      "year_it_played": "2015-2016"
+    },
+    {
+      "id": "15",
+      "title": "Captain America: Civil War",
+      "release_date": "27.04.2016",
+      "duration": 147,
+      "overview": "Steve Rogers steht an der Spitze des neu formierten Avengers-Teams, das die Menschheit beschützen soll. Doch nachdem ein weiterer Vorfall, in den die Avengers verwickelt sind, zu erheblichen Schäden führt, wächst der politische Druck, ein System der Rechenschaftspflicht zu installieren, das von einem leitenden Gremium angeführt wird, welches das Team beaufsichtigen und leiten soll. Der neue Zustand spaltet die Avengers in zwei Gruppen: eine, angeführt von Steve Rogers und seinem Wunsch, dass die Avengers frei bleiben, um die Menschheit ohne Einmischung der Regierung zu verteidigen und die andere, die Tony Starks überraschender Entscheidung folgt, die staatliche Aufsicht und Rechenschaftspflicht zu unterstützen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/captain-america-civil-war.jpg",
+      "trailer_url": "https://www.youtube.com/embed/dKrVegVI0Us?controls=0",
+      "directed_by": "Anthony Russo, Joe Russo",
+      "phase": 3,
+      "chronology": 32,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1013",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "29.09.2015",
+      "duration": null,
+      "overview": "Marvel's Agents of S.H.I.E.L.D. kehrt für eine spannende dritte Staffel zurück, mit Direktor Phil Coulson und Agentin Daisy Johnson an der Spitze, während S.H.I.E.L.D. nach ihrem epischen Kampf mit Jiaying und ihrer Armee von Inhumans die Welt nach weiteren Menschen mit Kräften absucht. Allerdings finden Coulson und sein Team bald heraus, dass sie nicht die einzigen sind, die nach diesen suchen.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 3.jpg",
+      "trailer_url": "https://www.youtube.com/embed/N4VoMgVN1O4",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 33,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S03E20 - S03E22",
+      "episodes": 
+    [
+        {
+         "id": "1013_01",
+         "title": "S03E20"
+        },
+        {
+          "id": "1013_02",
+          "title": "S03E21"
+         },
+         {
+          "id": "1013_03",
+          "title": "S03E22"
+         }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1014",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "20.09.2016",
+      "duration": null,
+      "overview": "Nach ihrer Reise zu einem anderen Planeten waren Coulson und der Rest des Teams mehr denn je davon besessen, HYDRA ein Ende zu setzen. Sie ahnten nicht, dass sie es mit der tödlichsten Bedrohung zu tun hatten, mit der sie je konfrontiert waren - einem extrem mächtigen Inhuman, Hive, der im Körper ihres schlimmsten Feindes Grant Ward von Maveth zurückgebracht worden war. Das Team war in der Lage, Hive zu töten und HYDRA zu Fall zu bringen, aber sie alle trauern immer noch um den Tod ihres Kollegen. Mit dem Sokovia-Abkommen und der Auslöschung von HYDRA hat S.H.I.E.L.D. seine Legitimität wiedererlangt und muss nicht mehr im Verborgenen agieren. ", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 4.jpg",
+      "trailer_url": "https://www.youtube.com/embed/HM-6Zmc7LYg",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 34,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S04E01 - S04E08",
+      "episodes": 
+      [
+        {
+         "id": "1014_01",
+         "title": "S04E01"
+        },
+        {
+          "id": "1014_02",
+          "title": "S04E02"
+         },
+         {
+          "id": "1014_03",
+          "title": "S04E03"
+         },
+         {
+          "id": "1014_04",
+          "title": "S04E04"
+         },
+         {
+          "id": "1014_05",
+          "title": "S04E05"
+         },
+         {
+          "id": "1014_06",
+          "title": "S04E06"
+         },
+         {
+          "id": "1014_07",
+          "title": "S04E07"
+         },
+         {
+          "id": "1014_08",
+          "title": "S04E08"
+        }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "2005",
+      "title": "Slingshot: Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "13.12.2016",
+      "duration": 6,
+      "overview": "Jetzt ansehen!", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/shield slingshot.png",
+      "trailer_url": "https://www.youtube.com/embed/videoseries?list=PLDe0CguuqcMBVtZJk0iCNoSblixvAt4BY",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 35,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "E01-E06",
+      "episodes": 
+      [
+        {
+         "id": "2005_01",
+         "title": "E01",
+         "url": "https://www.youtube.com/embed/1xgQUoVfiL8"
+        },
+        {
+          "id": "2005_02",
+          "title": "E02",
+          "url": "https://www.youtube.com/embed/hGHpeBTOi2g"
+         },
+         {
+          "id": "2005_03",
+          "title": "E03", 
+          "url": "https://www.youtube.com/embed/sjwQFLguIeI"
+         },
+         {
+          "id": "2005_04",
+          "title": "E04", 
+          "url": "https://www.youtube.com/embed/6ErNf4a68MQ"
+         },
+         {
+          "id": "2005_05",
+          "title": "E05",
+          "url": "https://www.youtube.com/embed/uVer7dH5LE0"
+         },
+         {
+          "id": "2005_06",
+          "title": "E06",
+          "url": "https://www.youtube.com/embed/nIJ3-mNx3G4?controls=0"
+         }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1015",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "20.09.2016",
+      "duration": null,
+      "overview": "Nach ihrer Reise zu einem anderen Planeten waren Coulson und der Rest des Teams mehr denn je davon besessen, HYDRA ein Ende zu setzen. Sie ahnten nicht, dass sie es mit der tödlichsten Bedrohung zu tun hatten, mit der sie je konfrontiert waren - einem extrem mächtigen Inhuman, Hive, der im Körper ihres schlimmsten Feindes Grant Ward von Maveth zurückgebracht worden war. Das Team war in der Lage, Hive zu töten und HYDRA zu Fall zu bringen, aber sie alle trauern immer noch um den Tod ihres Kollegen. Mit dem Sokovia-Abkommen und der Auslöschung von HYDRA hat S.H.I.E.L.D. seine Legitimität wiedererlangt und muss nicht mehr im Verborgenen agieren. ", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 4.jpg",
+      "trailer_url": "https://www.youtube.com/embed/HM-6Zmc7LYg",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 36,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S04E09 - S04E22",
+      "episodes": 
+      [
+        {
+         "id": "1015_01",
+         "title": "S04E09"
+        },
+        {
+          "id": "1015_02",
+          "title": "S04E10"
+         },
+         {
+          "id": "1015_03",
+          "title": "S04E11"
+         },
+         {
+          "id": "1015_04",
+          "title": "S04E12"
+         },
+         {
+          "id": "1015_05",
+          "title": "S04E13"
+         },
+         {
+          "id": "1015_06",
+          "title": "S04E14"
+         },
+         {
+          "id": "1015_07",
+          "title": "S04E15"
+         },
+         {
+          "id": "1015_08",
+          "title": "S04E16"
+        },
+        {
+          "id": "1015_09",
+          "title": "S04E17"
+         },
+         {
+          "id": "1015_10",
+          "title": "S04E18"
+         },
+         {
+          "id": "1015_11",
+          "title": "S04E19"
+         },
+         {
+          "id": "1015_12",
+          "title": "S04E20"
+         },
+         {
+          "id": "1015_13",
+          "title": "S04E21"
+         },
+         {
+          "id": "1015_14",
+          "title": "S04E22"
+         }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1016",
+      "title": "Marvel's Iron Fist",
+      "release_date": "17.03.2017",
+      "duration": 0,
+      "overview": "Nachdem seine Familie auf einer Expedition in China ein tragisches Schicksal erleidet, wird der junge Daniel Rand von den Menschen der mystischen, verlorenen Stadt K'un-Lun adoptiert, wo ihm ein magischer Kampfstil beigebracht wird. Nachdem er jahrelang vermisst wurde, kehrt Rand nach New York City zurück und kämpft gegen die kriminellen Kräfte.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/iron fist .jpg",
+      "trailer_url": "https://www.youtube.com/embed/f9OKL5no-S0",
+      "directed_by": "Scott Buck",
+      "phase": 3,
+      "chronology": 37,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E13",
+      "episodes": 
+      [
+        {
+         "id": "1016_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1016_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1016_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1016_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1016_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1016_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1016_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1016_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1016_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1016_10",
+           "title": "S01E10"
+          },
+          {
+           "id": "1016_11",
+           "title": "S01E11"
+          },
+          {
+            "id": "1016_12",
+            "title": "S01E12"
+           },
+           {
+            "id": "1016_13",
+            "title": "S01E13"
+          }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1017",
+      "title": "Marvel's The Defenders",
+      "release_date": "18.09.2017",
+      "duration": 0,
+      "overview": "Marvel's The Defenders folgt Daredevil, Jessica Jones, Luke Cage und Iron Fist. Ein Quartett von einzigartigen Helden mit einem gemeinsamen Ziel - New York City zu retten.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Defenders2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/KtsUFqZpCIw",
+      "directed_by": "Douglas Petrie, Marco Ramirez",
+      "phase": 3,
+      "chronology": 38,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E08",
+      "episodes": 
+      [
+        {
+         "id": "1017_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1017_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1017_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1017_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1017_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1017_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1017_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1017_08",
+           "title": "S01E08"
+          }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "16",
+      "title": "Spider-Man: Homecoming",
+      "release_date": "05.07.2017",
+      "duration": 133,
+      "overview": "Der junge Peter Parker beginnt sich in Spider-Man: Homecoming mit seiner neuen Identität als netzschwingender Superheld zurechtzufinden. Begeistert von seinen Erfahrungen mit den Avengers kehrt Peter nach Hause zurück, wo er mit seiner Tante May und unter dem wachsamen Auge seines neuen Mentors Tony Stark lebt. Peter versucht, in seinen normalen Alltag zurückzufallen - abgelenkt von den Gedanken zu beweisen, dass er mehr als nur der freundliche Spider-Man aus der Nachbarschaft sei.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Spiderman Homecoming2.webp",
+      "trailer_url": "https://www.youtube.com/embed/rk-dF1lIbIg?controls=0",
+      "directed_by": "Jon Watts",
+      "phase": 3,
+      "chronology": 39,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2016"
+    },
+    {
+      "id": "1018",
+      "title": "Marvel's The Punisher",
+      "release_date": "17.11.2017",
+      "duration": 0,
+      "overview": "Nachdem er sich an denen gerächt hat, die für den Tod seiner Familie verantwortlich sind, deckt Frank Castle eine Verschwörung auf, die weit tiefer reicht als die kriminelle Unterwelt New Yorks. Nun in der ganzen Stadt als Punisher bekannt und rechtlich tot, muss er die Wahrheit über Ungerechtigkeiten aufdecken und unangenehme Allianzen eingehen, um endlich den Krieg zu beenden, der sein Leben schon zu lange kontrolliert hat.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/The Punisher seasonn 1.jpeg",
+      "trailer_url": "https://www.youtube.com/embed/sDp4AuNen0Y",
+      "directed_by": "Steve Lightfoot",
+      "phase": 3,
+      "chronology": 40,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E12",
+      "episodes": 
+      [
+        {
+         "id": "1018_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1018_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1018_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1018_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1018_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1018_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1018_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1018_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1018_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1018_10",
+           "title": "S01E10"
+          },
+          {
+           "id": "1018_11",
+           "title": "S01E11"
+          },
+          {
+            "id": "1018_12",
+            "title": "S01E12"
+           }
+      ],
+      "year_it_played": "2016"
+    },
+    {
+      "id": "17",
+      "title": "Doctor Strange",
+      "release_date": "25.10.2016",
+      "duration": 115,
+      "overview": "Das Leben des weltberühmten Neurochirurgen Dr. Stephen Strange, veränderte sich für immer, nachdem ein schrecklicher Autounfall ihm den Gebrauch seiner Hände raubte. Als die traditionelle Medizin versagt, ist er gezwungen, Heilung und Hoffnung an einem unwahrscheinlichen Ort zu suchen - einer mysteriösen Siedlung, bekannt als Kamar-Taj. Er lernt schnell, dass dies nicht nur ein Zentrum für Heilung ist, sondern auch die vorderste Front eines Kampfes gegen unsichtbare dunkle Kräfte, die unsere Realität zerstören wollen. Schon bald ist Strange - ausgestattet mit neu erworbenen magischen Kräften - gezwungen, sich zu entscheiden, ob er zu seinem Leben mit Reichtum und Status zurückkehren oder alles hinter sich lassen will, um die Welt als mächtigster Zauberer zu verteidigen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/doctor-strange.jpg",
+      "trailer_url": "https://www.youtube.com/embed/Lt-U_t2pUHI",
+      "directed_by": "Scott Derrickson",
+      "phase": 3,
+      "chronology": 41,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2016-2017"
+    },
+    {
+      "id": "1019",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "01.12.2017",
+      "duration": null,
+      "overview": "Agent Coulson und das Team entkamen dem Framework von Aida und erwachten wieder in der realen Welt. Sie ahnten nicht, dass Aida nun vollständig menschlich war und die gefährlichen Vorstellung besass, dass sie mit Fitz an ihrer Seite die Welt verändern könnte. Nachdem sie sie mit Hilfe vom Ghost Rider besiegt hatten, ging das Team aus, um zu feiern. Ein mysteriöser Mann unterbrach sie allerdings und ließ sie einfrieren. Das nächste, was passierte war, dass Coulson an Bord eines Schiffes war... im Weltraum.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 5.webp",
+      "trailer_url": "https://www.youtube.com/embed/YQJKgtAktLQ",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 42,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S05E01 - S05E18",
+      "episodes": 
+      [
+        {
+         "id": "1019_01",
+         "title": "S05E01"
+        },
+        {
+          "id": "1019_02",
+          "title": "S05E02"
+         },
+         {
+          "id": "1019_03",
+          "title": "S05E03"
+         },
+         {
+          "id": "1019_04",
+          "title": "S05E04"
+         },
+         {
+          "id": "1019_05",
+          "title": "S05E05"
+         },
+         {
+          "id": "1019_06",
+          "title": "S05E06"
+         },
+         {
+          "id": "1019_07",
+          "title": "S05E07"
+         },
+         {
+           "id": "1019_08",
+           "title": "S05E08"
+          },
+          {
+           "id": "1019_09",
+           "title": "S05E09"
+          },
+          {
+           "id": "1019_10",
+           "title": "S05E10"
+          },
+          {
+           "id": "1019_11",
+           "title": "S05E11"
+          },
+          {
+            "id": "1019_12",
+            "title": "S05E12"
+           },
+           {
+            "id": "1019_13",
+            "title": "S05E13"
+           },
+           {
+            "id": "1019_14",
+            "title": "S05E14"
+           },
+           {
+            "id": "1019_15",
+            "title": "S05E15"
+           },
+           {
+            "id": "1019_16",
+            "title": "S05E16"
+           },
+           {
+             "id": "1019_17",
+             "title": "S05E17"
+            },
+           {
+            "id": "1019_18",
+            "title": "S05E18"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "18",
+      "title": "Black Panther",
+      "release_date": "13.02.2018",
+      "duration": 134,
+      "overview": "Black Panther folgt T'Challa, der nach den Ereignissen von 'Captain America: Civil War' nach Hause in die isolierte, technologisch fortschrittliche afrikanische Nation Wakanda zurückkehrt, um seinen Platz als König einzunehmen. Als jedoch ein alter Feind wieder auf dem Radar auftaucht, wird T'Challas Eifer als König und Black Panther auf die Probe gestellt.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/black-panther.jpg",
+      "trailer_url": "https://www.youtube.com/embed/xjDjIWPwcPU",
+      "directed_by": "Ryan Coogler",
+      "phase": 3,
+      "chronology": 43,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1020",
+      "title": "Marvel's Jessica Jones",
+      "release_date": "08.03.2018",
+      "duration": 0,
+      "overview": "Die New Yorker Privatdetektivin Jessica Jones beginnt, ihr Leben wieder in den Griff zu bekommen, nachdem sie ihren Peiniger Kilgrave ermordet hat. Jetzt ist sie in der ganzen Stadt als Killerin mit Superkräften bekannt. Ein neuer Fall bringt sie dazu, sich widerwillig damit zu konfrontieren, wer sie wirklich ist, während sie tiefer in ihrer Vergangenheit gräbt, um die Gründe dafür zu erforschen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/jessica-jones-season-2.jpg",
+      "trailer_url": "https://www.youtube.com/embed/-u2AV8z_CX0",
+      "directed_by": "Melissa Rosenberg",
+      "phase": 3,
+      "chronology": 44,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E12",
+      "episodes": 
+      [
+        {
+         "id": "1020_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1020_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1020_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1020_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1020_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1020_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1020_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1020_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1020_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1020_10",
+           "title": "S02E10"
+          },
+          {
+           "id": "1020_11",
+           "title": "S02E11"
+          },
+          {
+            "id": "1020_12",
+            "title": "S02E12"
+           }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1021",
+      "title": "Marvel's Inhumans",
+      "release_date": "29.09.2017",
+      "duration": 0,
+      "overview": "Marvel's Inhumans erforscht nie zuvor erzählte epische Geschichte der königlichen Familie der Inhumans. Nachdem die königliche Familie durch einen Militärputsch zersplittert wurde, entkamen sie nur knapp nach Hawaii, wo ihre überraschenden Interaktionen mit der der Menschheit sich als die Rettung für sie und die Erde selbst erweisen könnte.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Inhumans.webp",
+      "trailer_url": "https://www.youtube.com/embed/1sYF1SXcWqQ",
+      "directed_by": "Scott Buck",
+      "phase": 3,
+      "chronology": 45,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E08",
+      "episodes": 
+      [
+        {
+         "id": "1021_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1021_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1021_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1021_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1021_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1021_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1021_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1021_08",
+           "title": "S01E08"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1022",
+      "title": "Marvel's Luke Cage",
+      "release_date": "22.06.2018",
+      "duration": 0,
+      "overview": "Nachdem er seinen Namen reingewaschen hatte, wurde Luke Cage in den Straßen von Harlem zu einer Berühmtheit, mit einem Ruf, der so kugelsicher war wie seine Haut. Aber so sichtbar zu sein, hat nur sein Bedürfnis erhöht, die Gemeinschaft zu schützen. Mit dem Aufstieg eines gewaltigen neuen Feindes ist Luke gezwungen, die feine Linie zu überwinden, die einen Helden von einem Schurken trennt.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/luke cage 2.webp",
+      "trailer_url": "https://www.youtube.com/embed/5ogmCV2N9DA",
+      "directed_by": "Cheo Hodari Coker",
+      "phase": 3,
+      "chronology": 46,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E13",
+      "episodes": 
+      [
+        {
+         "id": "1022_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1022_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1022_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1022_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1022_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1022_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1022_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1022_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1022_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1022_10",
+           "title": "S02E10"
+          },
+          {
+           "id": "1022_11",
+           "title": "S02E11"
+          },
+          {
+            "id": "1022_12",
+            "title": "S02E12"
+           },
+           {
+            "id": "1022_13",
+            "title": "S02E13"
+           }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1023",
+      "title": "Marvel's Iron Fist",
+      "release_date": "07.09.2018",
+      "duration": 0,
+      "overview": "Staffel 2 treibt die Verwandlung von Daniel voran, der seinen Weg in einer rauen neuen Welt findet und darum kämpft, herauszufinden, wer er ist. Er hat versprochen, dass er nach dem Tod von Matt Murdock aufstehen und seine Stadt beschützen wird. Aber eine finstere Verschwörung bedroht seine Identität und er muss die Schurken besiegen, um die Stadt und die Menschen zu schützen, die ihm am Herzen liegen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/iron fist 2.jpg    ",
+      "trailer_url": "https://www.youtube.com/embed/kvvWB0GwCek",
+      "directed_by": "M. Raven Metzner",
+      "phase": 3,
+      "chronology": 47,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E10",
+      "episodes": 
+      [
+        {
+         "id": "1023_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1023_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1023_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1023_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1023_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1023_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1023_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1023_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1023_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1023_10",
+           "title": "S02E10"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1024",
+      "title": "Marvel's Daredevil",
+      "release_date": "19.10.2018",
+      "duration": 0,
+      "overview": "Nach monatelangem Verschwinden taucht Matt Murdock als gebrochener Mann wieder auf und stellt seine Zukunft als Selbstjustizler Daredevil und Anwalt Matthew Murdock in Frage. Doch als sein Erzfeind Wilson Fisk aus dem Gefängnis entlassen wird, muss Matt sich entscheiden, ob er sich vor der Welt versteckt oder seine Bestimmung als Held annimmt.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Daredevil_Season_3.webp",
+      "trailer_url": "https://www.youtube.com/embed/n83s6NO1NE0",
+      "directed_by": "Douglas Petrie, Marco Ramirez",
+      "phase": 4,
+      "chronology": 48,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S03E01 - S03E13",
+      "episodes": 
+      [
+        {
+         "id": "1024_01",
+         "title": "S03E01"
+        },
+        {
+          "id": "1024_02",
+          "title": "S03E02"
+         },
+         {
+          "id": "1024_03",
+          "title": "S03E03"
+         },
+         {
+          "id": "1024_04",
+          "title": "S03E04"
+         },
+         {
+          "id": "1024_05",
+          "title": "S03E05"
+         },
+         {
+          "id": "1024_06",
+          "title": "S03E06"
+         },
+         {
+          "id": "1024_07",
+          "title": "S03E07"
+         },
+         {
+           "id": "1024_08",
+           "title": "S03E08"
+          },
+          {
+           "id": "1024_09",
+           "title": "S03E09"
+          },
+          {
+           "id": "1024_10",
+           "title": "S03E10"
+          },
+          {
+           "id": "1024_11",
+           "title": "S03E11"
+          },
+          {
+            "id": "1024_12",
+            "title": "S03E12"
+           },
+           {
+            "id": "1024_13",
+            "title": "S03E13"
+           }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1025",
+      "title": "Marvel's The Punisher",
+      "release_date": "18.01.2019",
+      "duration": 0,
+      "overview": "Der ehemalige Marinesoldat und jetzige Selbstjustizler Frank Castle führt ein ruhiges Leben auf der Straße, bis er plötzlich in den versuchten Mord an einem jungen Mädchen verwickelt wird. Als er in das Mysterium um sie und diejenigen, die hinter den Informationen her sind, die sie besitzt, hineingezogen wird, zieht Castle eine neue Zielscheibe auf seinem Rücken an, während neue und alte Feinde ihn zwingen, sich damit auseinanderzusetzen, ob er sein Schicksal akzeptieren und das Leben als Punisher annehmen sollte.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/punisher 2.webp",
+      "trailer_url": "https://www.youtube.com/embed/jrLhP5sK2wI",
+      "directed_by": "Steve Lightfoot",
+      "phase": 3,
+      "chronology": 49,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E13",
+      "episodes": 
+      [
+        {
+         "id": "1025_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1025_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1025_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1025_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1025_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1025_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1025_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1025_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1025_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1025_10",
+           "title": "S02E10"
+          },
+          {
+           "id": "1025_11",
+           "title": "S02E11"
+          },
+          {
+           "id": "1025_12",
+           "title": "S02E12"
+          },
+          {
+           "id": "1025_13",
+           "title": "S02E13"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1026",
+      "title": "Marvel's Jessica Jones",
+      "release_date": "14.06.2019",
+      "duration": 0,
+      "overview": "Als sich Jessicas Wege mit einem hochintelligenten Psychopathen kreuzen, müssen sie und Trish ihre zerrüttete Beziehung reparieren und sich zusammentun, um ihn zur Strecke zu bringen. Doch ein verheerender Verlust offenbart ihre gegensätzlichen Vorstellungen von Heldentum und bringt sie auf einen Kollisionskurs, der sie beide für immer verändern wird.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/jessica jones 3.webp",
+      "trailer_url": "https://www.youtube.com/embed/7DBKS2qH51I",
+      "directed_by": "Melissa Rosenberg, Scott Reynolds",
+      "phase": 3,
+      "chronology": 50,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S03E01 - S03E13",
+      "episodes": 
+      [
+        {
+         "id": "1026_01",
+         "title": "S03E01"
+        },
+        {
+          "id": "1026_02",
+          "title": "S03E02"
+         },
+         {
+          "id": "1026_03",
+          "title": "S03E03"
+         },
+         {
+          "id": "1026_04",
+          "title": "S03E04"
+         },
+         {
+          "id": "1026_05",
+          "title": "S03E05"
+         },
+         {
+          "id": "1026_06",
+          "title": "S03E06"
+         },
+         {
+          "id": "1026_07",
+          "title": "S03E07"
+         },
+         {
+           "id": "1026_08",
+           "title": "S03E08"
+          },
+          {
+           "id": "1026_09",
+           "title": "S03E09"
+          },
+          {
+           "id": "1026_10",
+           "title": "S03E10"
+          },
+          {
+            "id": "1026_11",
+            "title": "S03E11"
+           },
+           {
+            "id": "1026_12",
+            "title": "S03E12"
+           },
+           {
+            "id": "1026_13",
+            "title": "S03E13"
+           }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1027",
+      "title": "Marvel's Runaways",
+      "release_date": "21.11.2017",
+      "duration": 0,
+      "overview": "Als sechs Teenager aus L.A. über ein schreckliches Geheimnis stolpern, erkennen sie, dass ihre Eltern sie ihr ganzes Leben lang belogen haben. Während die Kinder nachforschen, beginnen die Erwachsenen sich zu fragen, ob ihre Kinder selbst Geheimnisse verbergen. Die Eltern kommen der Wahrheit näher, als die Kinder einen Plan mit verheerenden Folgen aufdecken. Jetzt muss sich diese Gruppe von Teenagern zusammenschließen, um ihre Eltern aufzuhalten, bevor es zu spät ist.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Runaway.webp",
+      "trailer_url": "https://www.youtube.com/embed/jwgUGF_pqMk",
+      "directed_by": "Josh Schwartz, Stephanie Savage",
+      "phase": 3,
+      "chronology": 51,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E10",
+      "episodes": 
+      [
+        {
+         "id": "1027_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1027_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1027_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1027_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1027_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1027_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1027_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1027_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1027_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1027_10",
+           "title": "S01E10"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1028",
+      "title": "Marvel's Runaways",
+      "release_date": "21.12.2018",
+      "duration": 0,
+      "overview": "Die Runaways haben ihr Zuhause hinter sich gelassen und müssen nun lernen alleine zu recht zu kommen. Während sie nach Nahrung und einem Unterschlupf suchen, sich umeinander kümmern, beginnen die Kinder zu erkennen, dass sie aneinander gebunden sind.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/runaways season 2.webp",
+      "trailer_url": "https://www.youtube.com/embed/UZdzQs4ftF4",
+      "directed_by": "Josh Schwartz, Stephanie Savage",
+      "phase": 3,
+      "chronology": 52,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E13",
+      "episodes": 
+      [
+        {
+         "id": "1028_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1028_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1028_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1028_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1028_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1028_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1028_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1028_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1028_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1028_10",
+           "title": "S02E10"
+          },
+          {
+            "id": "1028_11",
+            "title": "S02E11"
+           },
+           {
+            "id": "1028_12",
+            "title": "S02E12"
+           },
+           {
+            "id": "1028_13",
+            "title": "S02E13"
+           }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1029",
+      "title": "Marvel's Cloak and Dagger",
+      "release_date": "07.06.2018",
+      "duration": 0,
+      "overview": "Tandy Bowen und Tyrone Johnson kommen aus völlig unterschiedlichen Verhältnissen und wuchsen beide mit einem Geheimnis auf, das sie nie mit einer anderen Seele zu teilen wagten.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Cloak and dagger.webp",
+      "trailer_url": "https://www.youtube.com/embed/EvKaFHJcO3U",
+      "directed_by": "Joe Pokaski",
+      "phase": 3,
+      "chronology": 53,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E10",
+      "episodes": 
+      [
+        {
+         "id": "1029_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1029_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1029_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1029_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1029_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1029_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1029_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1029_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1029_09",
+           "title": "S01E09"
+          },
+          {
+           "id": "1029_10",
+           "title": "S01E10"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "1030",
+      "title": "Marvel's Cloak and Dagger",
+      "release_date": "04.04.2019",
+      "duration": 0,
+      "overview": " Mit verbesserten Kräften treffen sie die Entscheidung, sich kopfüber in die Gefahr zu stürzen. Sie nehmen es mit einem herzlosen Selbstjustizler auf und decken ein Übel auf.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/Cloak and dagger 2.jpeg",
+      "trailer_url": "https://www.youtube.com/embed/1_zKJmnVb7g",
+      "directed_by": "Joe Pokaski",
+      "phase": 3,
+      "chronology": 54,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S02E01 - S02E10",
+      "episodes": 
+      [
+        {
+         "id": "1030_01",
+         "title": "S02E01"
+        },
+        {
+          "id": "1030_02",
+          "title": "S02E02"
+         },
+         {
+          "id": "1030_03",
+          "title": "S02E03"
+         },
+         {
+          "id": "1030_04",
+          "title": "S02E04"
+         },
+         {
+          "id": "1030_05",
+          "title": "S02E05"
+         },
+         {
+          "id": "1030_06",
+          "title": "S02E06"
+         },
+         {
+          "id": "1030_07",
+          "title": "S02E07"
+         },
+         {
+           "id": "1030_08",
+           "title": "S02E08"
+          },
+          {
+           "id": "1030_09",
+           "title": "S02E09"
+          },
+          {
+           "id": "1030_10",
+           "title": "S02E10"
+          }
+      ],
+      "year_it_played": "2017"
+    },
+    {
+      "id": "20",
+      "title": "Thor: Ragnarok",
+      "release_date": "24.10.2017",
+      "duration": 130,
+      "overview": "Thors Welt ist dabei zu explodieren. Sein hinterlistiger Bruder Loki hat die Herrschaft über Asgard übernommen, die mächtige Hela ist aufgetaucht, um den Thron für sich zu stehlen und Thor ist auf der anderen Seite des Universums gefangen. Um der Gefangenschaft zu entkommen und seine Heimat vor der drohenden Zerstörung zu bewahren, muss Thor zuerst einige Herausforderungen meistern",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/thor-ragnarok.jpg",
+      "trailer_url": "https://www.youtube.com/embed/v7MGUNV8MxU",
+      "directed_by": "Taika Waititi",
+      "phase": 3,
+      "chronology": 55,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2017-2018"
+    },
+    {
+      "id": "1031",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "01.12.2017",
+      "duration": null,
+      "overview": "Agent Coulson und das Team entkamen dem Framework von Aida und erwachten wieder in der realen Welt. Sie ahnten nicht, dass Aida nun vollständig menschlich war und die gefährlichen Vorstellung besass, dass sie mit Fitz an ihrer Seite die Welt verändern könnte. Nachdem sie sie mit Hilfe vom Ghost Rider besiegt hatten, ging das Team aus, um zu feiern. Ein mysteriöser Mann unterbrach sie allerdings und ließ sie einfrieren. Das nächste, was passierte war, dass Coulson an Bord eines Schiffes war... im Weltraum.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/SHIELD 5.webp",
+      "trailer_url": "https://www.youtube.com/embed/YQJKgtAktLQ",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 56,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S05E19 - S05E22",
+      "episodes": 
+      [
+        {
+         "id": "1031_01",
+         "title": "S05E19"
+        },
+        {
+          "id": "1031_02",
+          "title": "S05E20"
+         },
+         {
+          "id": "1031_03",
+          "title": "S05E21"
+         },
+         {
+          "id": "1031_04",
+          "title": "S05E22"
+         }
+      ],
+      "year_it_played": "2018"
+    },
+    {
+      "id": "21",
+      "title": "Ant-Man and The Wasp",
+      "release_date": "04.07.2018",
+      "duration": 118,
+      "overview": "Zwei Jahre nach 'Captain America: Civil War' muss sich Scott Lang mit den Konsequenzen seiner Entscheidungen als Superheld und Vater auseinandersetzen. Während er darum kämpft, sein Privatleben mit seinen Pflichten als Ant-Man in Einklang zu bringen, wird er von Hope van Dyne und Dr. Hank Pym mit einer dringenden neuen Mission konfrontiert. Scott muss wieder einmal den Anzug anziehen und lernen, an der Seite von The Wasp zu kämpfen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/ant-man-and-the-wasp.jpg",
+      "trailer_url": "https://www.youtube.com/embed/8_rTIAOohas",
+      "directed_by": "Peyton Reed",
+      "phase": 3,
+      "chronology": 57,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2018"
+    },
+    {
+      "id": "22",
+      "title": "Avengers: Infinity War",
+      "release_date": "27.04.2018",
+      "duration": 149,
+      "overview": "Während die Avengers und ihre Verbündeten die Welt weiterhin vor Bedrohungen schützen ist eine neue Gefahr aus dem kosmischen Schatten aufgetaucht: Thanos. Sein Ziel ist es, alle sechs Infinity-Steine zu sammeln und sie zu benutzen, um der gesamten Realität seinen verdrehten Willen aufzuzwingen. ",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/avengers-infinity-war.jpg",
+      "trailer_url": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "directed_by": "Anthony Russo, Joe Russo",
+      "phase": 3,
+      "chronology": 58,
+      "post_credit_scenes": 1,
+      "episodes_to_watch": "0",
+      "year_it_played": "2018"
+    },
+    {
+      "id": "1032",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "10.05.2019",
+      "duration": null,
+      "overview": "Das Team sprang in der Zeit vorwärts die Zukunft, von der sie bald merkten, dass sie verhindert werden muss. Während sie mit neuen Feinden von fernen Planeten konfrontiert wurden, fanden sie Familie, Freunde, Teamkameraden und den Mut, ihre bisher größte Herausforderung zu meistern.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/shield6.webp",
+      "trailer_url": "https://www.youtube.com/embed/wrKssByuVt0",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 59,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S06E01 - S06E13",
+      "episodes": 
+      [
+        {
+         "id": "1032_01",
+         "title": "S06E01"
+        },
+        {
+          "id": "1032_02",
+          "title": "S06E02"
+         },
+         {
+          "id": "1032_03",
+          "title": "S06E03"
+         },
+         {
+          "id": "1032_04",
+          "title": "S06E04"
+         },
+         {
+          "id": "1032_05",
+          "title": "S06E05"
+         },
+         {
+          "id": "1032_06",
+          "title": "S06E06"
+         },
+         {
+          "id": "1032_07",
+          "title": "S06E07"
+         },
+         {
+           "id": "1032_08",
+           "title": "S06E08"
+          },
+          {
+           "id": "1032_09",
+           "title": "S06E09"
+          },
+          {
+           "id": "1032_10",
+           "title": "S06E10"
+          },
+          {
+            "id": "1032_11",
+            "title": "S06E11"
+           },
+           {
+            "id": "1032_12",
+            "title": "S06E12"
+           },
+           {
+            "id": "1032_13",
+            "title": "S06E13"
+           }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Avengers: Endgame",
+      "release_date": "26.04.2019",
+      "duration": 181,
+      "overview": "Der schwerwiegende Verlauf der von Thanos in Gang gesetzten Ereignisse, der das halbe Universum auslöschte und die Avengers zersplitterte, zwingt die verbliebenen, im großen Abschluss ein letztes Mal Stellung zu beziehen",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/avengers-endgame.jpg",
+      "trailer_url": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "directed_by": "Anthony Russo, Joe Russo",
+      "phase": 3,
+      "chronology": 60,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "0",
+      "year_it_played": "2018-2023"
+    },
+    {
+      "id": "1033",
+      "title": "Marvel's Agent's of S.H.I.E.L.D.",
+      "release_date": "27.05.2020",
+      "duration": null,
+      "overview": "Coulson und die Agenten von S.H.I.E.L.D. werden in der Zeit zurückgedrängt und stranden in New York City im Jahr 1931. Mit der brandneuen Zephyr, die jeden Moment einen Zeitsprung machen kann, muss sich das Team beeilen, um herauszufinden, was genau passiert ist. Wenn sie scheitern, würde dies eine Katastrophe für die Vergangenheit, Gegenwart und Zukunft der Welt bedeuten.", 
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/shield7.webp",
+      "trailer_url": "https://www.youtube.com/embed/YBkq79ACDEU",
+      "directed_by": "Jed Whedon, Joss Whedon, Maurissa Tancharoen",
+      "phase": 3,
+      "chronology": 61,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S07E01 - S07E13",
+      "episodes": 
+      [
+        {
+         "id": "1033_01",
+         "title": "S07E01"
+        },
+        {
+          "id": "1033_02",
+          "title": "S07E02"
+         },
+         {
+          "id": "1033_03",
+          "title": "S07E03"
+         },
+         {
+          "id": "1033_04",
+          "title": "S07E04"
+         },
+         {
+          "id": "1033_05",
+          "title": "S07E05"
+         },
+         {
+          "id": "1033_06",
+          "title": "S07E06"
+         },
+         {
+          "id": "1033_07",
+          "title": "S07E07"
+         },
+         {
+           "id": "1033_08",
+           "title": "S07E08"
+          },
+          {
+           "id": "1033_09",
+           "title": "S07E09"
+          },
+          {
+           "id": "1033_10",
+           "title": "S07E10"
+          },
+          {
+            "id": "1033_11",
+            "title": "S07E11"
+           },
+           {
+            "id": "1033_12",
+            "title": "S07E12"
+           },
+           {
+            "id": "1033_13",
+            "title": "S07E13"
+           }
+      ],
+      "year_it_played": "2019"
+    },
+    {
+      "id": "1034",
+      "title": "WandaVision",
+      "release_date": "15.01.2021",
+      "duration": 0,
+      "overview": "WandaVision mischt den Stil klassischer Sitcoms mit dem Marvel Cinematic Universe, in dem Wanda Maximoff und Vision - zwei Wesen mit Superkräften, die ihr ideales Vorstadtleben führen - zu ahnen beginnen, dass nicht alles so ist, wie es scheint.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/wandavision.jpg",
+      "trailer_url": "https://www.youtube.com/embed/sj9J2ecsSpo",
+      "directed_by": "Jac Schaeffer",
+      "phase": 4,
+      "chronology": 62,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E09",
+      "episodes": 
+      [
+        {
+         "id": "1034_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1034_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1034_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1034_04",
+          "title": "S01E04"
+         },
+         {
+          "id": "1034_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1034_06",
+          "title": "S01E06"
+         },
+         {
+          "id": "1034_07",
+          "title": "S01E07"
+         },
+         {
+           "id": "1034_08",
+           "title": "S01E08"
+          },
+          {
+           "id": "1034_09",
+           "title": "S01E09"
+          }
+      ],
+      "year_it_played": "2023"
+    },
+    {
+      "id": "1035",
+      "title": "The Falcon and the Winter Soldier",
+      "release_date": "19.03.2021",
+      "duration": 0,
+      "overview": "Nach den Ereignissen von 'Avengers: Endgame' schließen sich Sam Wilson und Bucky Barnes zusammen und kämpfen nun ohne Steve Rogers an der Seite für das Wohl der Menschheit.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/falconwintersoldier.jpg",
+      "trailer_url": "https://www.youtube.com/embed/FbsRUNI7oh4",
+      "directed_by": "Malcolm Spellman",
+      "phase": 4,
+      "chronology": 63,
+      "post_credit_scenes": 0,
+      "episodes_to_watch": "S01E01 - S01E06",
+      "episodes": 
+      [
+        {
+         "id": "1035_01",
+         "title": "S01E01"
+        },
+        {
+          "id": "1035_02",
+          "title": "S01E02"
+         },
+         {
+          "id": "1035_03",
+          "title": "S01E03"
+         },
+         {
+          "id": "1035_04",
+          "title": "S01E04"
+         },
+        
+        {
+          "id": "1035_05",
+          "title": "S01E05"
+         },
+         {
+          "id": "1035_06",
+          "title": "S01E06"
+         }
+      ],
+      "year_it_played": "2023"
+    },
+    {
+      "id": "24",
+      "title": "Spider-Man: Far From Home",
+      "release_date": "02.07.2019",
+      "duration": 129,
+      "overview": "Peter Parker kehrt zurück. Unser freundlicher Superheld aus der Nachbarschaft beschließt, mit seinen besten Freunden Ned, MJ und dem Rest seiner Klasse einen Urlaub in Europa zu machen. Doch Peters Plan, die Superheldenei für ein paar Wochen hinter sich zu lassen, wird schnell über den Haufen geworfen, als er widerwillig zustimmt, Nick Fury dabei zu helfen, das Geheimnis mehrerer Angriffe von Elementarkreaturen aufzudecken, die auf dem ganzen Kontinent für Verwüstung sorgen.",
+      "cover_url": "https://raw.githubusercontent.com/svenia/mcu-viewing-order-data/main/covers/spidermanfarfromhome.jpg",
+      "trailer_url": "https://www.youtube.com/embed/DYYtuKyMtY8",
+      "directed_by": "Jon Watts",
+      "phase": 3,
+      "chronology": 64,
+      "post_credit_scenes": 2,
+      "episodes_to_watch": "0",
+      "year_it_played": "2024"
+    }
+  ]
+ 
+     
